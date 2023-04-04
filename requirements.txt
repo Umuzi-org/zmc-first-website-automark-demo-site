@@ -1,0 +1,4 @@
+py_w3c
+lxml
+requests
+cssutils
